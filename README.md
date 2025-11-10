@@ -278,5 +278,3 @@ uvicorn app.main:app --reload --port 8001
 Este projeto é desenvolvido para fins educacionais e de demonstração.
 
 ---
-
-**Desenvolvido com ❤️ usando FastAPI**
